@@ -4,6 +4,6 @@
 
 Repository for all my things NR-related.
 
-Thanks to @cornmullion, we have a working logo!
+Thanks to @Cormullion, we have a working logo!
 
 ![logo gif](https://github.com/miguelraz/NumericalRelativity.jl/blob/master/logo.gif)
